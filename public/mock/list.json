@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "result": [
+    {
+      "cateTitle": "分类1",
+      "id":1,
+      "list":[
+        {
+          "name": "url111111111111",
+          "id": 11,
+          "imgUrl": "",
+          "url": ""
+        },
+        {
+          "name": "2222222",
+          "id": 22,
+          "imgUrl": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "cateTitle": "分类2",
+      "id":2,
+      "list":[
+        {
+          "name": "333333",
+          "id": 33,
+          "imgUrl": "",
+          "url": ""
+        },
+        {
+          "name": "444444",
+          "id": 44,
+          "imgUrl": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
